@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "repository": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "starred_at": "2025-01-15T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "repository": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime",
+    "starred_at": "2025-02-20T14:15:00Z"
+  },
+  {
+    "id": 3,
+    "repository": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code editor",
+    "starred_at": "2025-03-10T09:45:00Z"
+  },
+  {
+    "id": 4,
+    "repository": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "Go programming language",
+    "starred_at": "2025-03-22T16:20:00Z"
+  },
+  {
+    "id": 5,
+    "repository": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "description": "Python interpreter implementation",
+    "starred_at": "2025-04-05T11:00:00Z"
+  }
+]
